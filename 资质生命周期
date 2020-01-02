@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-02T13:50:38.147Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="63y-GJaM_889GXpkYQkG" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-02T13:53:19.505Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="bu0pMlOSy1WLXHuSgC1s" version="12.4.8" type="github">
   <diagram id="RdQJb-2O1Eu_a5iJp51n" name="Page-1">
     <mxGraphModel dx="946" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,6 +247,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1185" y="321" as="sourcePoint"/>
             <mxPoint x="1201" y="321" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYntcY1fsMz6zyZc5oZs-116" value="商户重新入驻" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="769" y="378.75" width="82" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="rYntcY1fsMz6zyZc5oZs-117" value="" style="endArrow=none;dashed=1;html=1;endSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="437.75" as="sourcePoint"/>
+            <mxPoint x="750" y="390" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYntcY1fsMz6zyZc5oZs-118" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="393.25" as="sourcePoint"/>
+            <mxPoint x="766" y="393.25" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
