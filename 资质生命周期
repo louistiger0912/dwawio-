@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-03T09:06:33.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="zT5wvMafskQtToq6prZ3" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-03T09:07:44.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="rYynicCVx3E-qymQQoHi" version="12.4.8" type="github">
   <diagram id="RdQJb-2O1Eu_a5iJp51n" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
         <mxCell id="rYntcY1fsMz6zyZc5oZs-101" value="" style="endArrow=none;dashed=1;html=1;endSize=6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="855" y="117" as="sourcePoint"/>
-            <mxPoint x="855" y="81.5" as="targetPoint"/>
+            <mxPoint x="855" y="90" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="rYntcY1fsMz6zyZc5oZs-102" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
@@ -221,12 +221,12 @@
         </mxCell>
         <mxCell id="rYntcY1fsMz6zyZc5oZs-104" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="855" y="84.75" as="sourcePoint"/>
-            <mxPoint x="871" y="84.75" as="targetPoint"/>
+            <mxPoint x="855" y="89.75" as="sourcePoint"/>
+            <mxPoint x="871" y="89.75" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="rYntcY1fsMz6zyZc5oZs-105" value="合同续签" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="871" y="69.5" width="83" height="27" as="geometry"/>
+          <mxGeometry x="871" y="74.5" width="83" height="27" as="geometry"/>
         </mxCell>
         <mxCell id="rYntcY1fsMz6zyZc5oZs-106" value="&lt;span style=&quot;font-size: 10px&quot;&gt;续签合同id&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="996" y="72.5" width="72" height="28.5" as="geometry"/>
@@ -245,17 +245,17 @@
         </mxCell>
         <mxCell id="rYntcY1fsMz6zyZc5oZs-112" value="" style="endArrow=none;dashed=1;html=1;endSize=6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1290" y="268" as="sourcePoint"/>
-            <mxPoint x="1290" y="208" as="targetPoint"/>
+            <mxPoint x="1286" y="230" as="sourcePoint"/>
+            <mxPoint x="1286" y="190.25" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="rYntcY1fsMz6zyZc5oZs-114" value="商户退出车商城" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1306" y="252.25" width="94" height="35.5" as="geometry"/>
+          <mxGeometry x="1302" y="214.63" width="94" height="35.5" as="geometry"/>
         </mxCell>
         <mxCell id="rYntcY1fsMz6zyZc5oZs-115" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1290" y="268" as="sourcePoint"/>
-            <mxPoint x="1306" y="268" as="targetPoint"/>
+            <mxPoint x="1286" y="230.38" as="sourcePoint"/>
+            <mxPoint x="1302" y="230.38" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="rYntcY1fsMz6zyZc5oZs-116" value="商户重新入驻" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
